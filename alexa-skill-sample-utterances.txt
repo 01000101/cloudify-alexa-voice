@@ -1,0 +1,22 @@
+GetCloudifyStatusIntent if it's running
+
+GetCloudifyVersionIntent what it's version is
+GetCloudifyVersionIntent what version it's on
+GetCloudifyVersionIntent what version it's at
+GetCloudifyVersionIntent what version it's running
+
+GetCloudifyBlueprintsCountIntent if there are any blueprints installed
+GetCloudifyBlueprintsCountIntent if there are any blueprints available
+GetCloudifyBlueprintsCountIntent if any blueprints exist
+GetCloudifyBlueprintsCountIntent how many blueprints are installed
+GetCloudifyBlueprintsCountIntent how many blueprints are available
+GetCloudifyBlueprintsCountIntent how many blueprints exist
+
+GetCloudifyExecutionsCountIntent if there are running executions
+GetCloudifyExecutionsCountIntent if there are any running executions
+GetCloudifyExecutionsCountIntent if there are any executions running
+GetCloudifyExecutionsCountIntent if there are any executions
+GetCloudifyExecutionsCountIntent how many executions are running
+GetCloudifyExecutionsCountIntent how many executions are there running
+GetCloudifyExecutionsCountIntent how many executions there are
+GetCloudifyExecutionsCountIntent how many executions there are running

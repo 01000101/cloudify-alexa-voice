@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GetCloudifyStatusIntent"
+    },
+    {
+      "intent": "GetCloudifyVersionIntent"
+    },
+    {
+      "intent": "GetCloudifyBlueprintsCountIntent"
+    },
+    {
+      "intent": "GetCloudifyExecutionsCountIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
