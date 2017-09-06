@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow&nbsp;&#64;JoscorLLC)](https://twitter.com/JoscorLLC)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow&nbsp;&#64;JoscorLLC)](https://twitter.com/JoscorLLC)
 
 # Alexa Voice Control for Cloudify
 
